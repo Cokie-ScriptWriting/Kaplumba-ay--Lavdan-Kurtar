@@ -1,2 +1,1 @@
-# Kaplumba-ay--Lavdan-Kurtar
-Kaplumbağa oyna diyor oynarmısın bee
+"OKU BENI ZIGOT" U OKU BUNU BOŞUNA EKLEDIM JSFGKJÇsdgjsgfj
