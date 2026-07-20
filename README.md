@@ -5,3 +5,6 @@ indirdiğinde açtığında Ay Bu ViRüS EkRaNıNa BeNzİyO
 zigot değilsen y y y y y y y tuşuna basarsın neneler Y YY YY YY YY YYY Y Y Y Y Y Y TUŞUNA BASACAN
 
 sonra bitiyo başlat ne olursan ol amaan
+
+Yukarıdaki adımları uyguladıktan sonra oyun hala açılmazsa, 
+Release kısmından hazır .exe dosyasını indirip doğrudan çalıştırabilirsiniz.
